@@ -1,5 +1,5 @@
 {
-  "name": "project-manager",
+  "name": "electron-template",
   "version": "1.0.0",
   "private": true,
   "main": ".webpack/main",
@@ -22,7 +22,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "project_manager"
+            "name": "electron_template"
           }
         },
         {
